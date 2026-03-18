@@ -1,0 +1,163 @@
+    \documentclass[output=book,
+	showindex,
+%   colorlinks,citecolor=brown,
+	draft,
+%	draftmode,
+	]{langscibook}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%             additional packages              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{localmetadata.tex}
+\input{localpackages.tex}
+\input{localhyphenation.tex}
+\input{localcommands.tex}
+\addbibresource{localbibliography.bib}
+
+\graphicspath{{figures/}}
+
+%\includeonly{indexed/D-ComWor/D-ComWor}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                Frontmatter                   %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%\makeatletter		%Display defulat table float spacing
+%\newcommand{\showfloatlengths}{
+%    \typeout{Default \floatsep=\the\floatsep}
+%    \typeout{Default \textfloatsep=\the\textfloatsep}
+%    \typeout{Default \intextsep=\the\intextsep}
+%    \typeout{Default \abovecaptionskip=\the\abovecaptionskip}
+%    \typeout{Default \belowcaptionskip=\the\belowcaptionskip}
+%}
+%\AtBeginDocument{\showfloatlengths}
+%\makeatother
+
+
+\begin{document}
+
+%TEMPORARILY comment out below for chapter
+\maketitle
+\frontmatter
+\currentpdfbookmark{Contents}{name}
+{\sloppy\tableofcontents}
+\cleardoublepage
+		\include{indexed/00-frontmatter/lists}
+		\include{indexed/00-frontmatter/abs}
+		\include{indexed/00-frontmatter/ack}
+		\include{indexed/00-frontmatter/abb}
+\mainmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                   Chapters                    %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\include{indexed/01-IntCom/01-IntCom}
+\include{indexed/02-LayAdd/02-LayAdd}
+\include{indexed/03-BL/03-BL}
+\include{indexed/04-TB/04-TB}
+\include{indexed/05-CT/05-CT}
+\include{indexed/06-Aru/06-Aru}
+\include{indexed/07-CM/07-CM}
+\include{indexed/08-Tal/08-Tal}
+\include{indexed/09-SB/09-SB}
+\include{indexed/10-AS/10-AS}
+\include{indexed/11-STB/11-STB}
+\include{indexed/12-Ban/12-Ban}
+\include{indexed/13-OthSub/13-OthSub}
+\include{indexed/14-Mar/14-Mar}
+\include{indexed/15-MorLes/15-MorLes}
+
+\appendix
+\include{indexed/A-LanLis/A-LanLis}
+\include{indexed/B-BanTer/B-BanTer}
+\include{indexed/C-SurMar/C-SurMar}
+\include{indexed/D-ComWor/D-ComWor}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                 Backmatter                   %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\nocite{*}
+
+\sloppy
+% \input{localseealso.tex}
+\input{backmatter.tex}
+
+\BackBody{
+
+For 150 years there has been a question over how the Austronesian
+languages of eastern Indonesia
+and Timor-Leste fit into the Austronesian world.
+The area is severely under-documented.
+There has been no consensus on the classification of these languages,
+and scholars admit to being perplexed.
+This is the first systematic attempt at subgrouping the whole
+region based on historical phonology,
+supplemented by morphosyntax and the lexicon.
+Insights from archaeology, DNA studies,
+and awareness of long-term contact with Papuan languages inform this study.
+
+Nine Wallacean subgroups are identified,
+along with their internal structures.
+Light is shed on languages whose classification has been unclear.
+Discontinuities in the historical phonology suggest different
+groups speaking different Austronesian languages got off different
+boats at different places,
+probably at different times.
+No evidence is found supporting a monolithic Austronesian advance
+through the region, nor a common Austronesian parent language below PMP that links all Wallacean subgroups.
+
+Speakers of SVO Austronesian languages with prepositions,
+preverbal negation, numbers before nouns, and post-posed possessors
+came into contact with speakers of languages of unrelated Papuan
+families, with postpositions, clause-final negation,
+numbers following nouns, preposed possessors,
+and other features of SOV languages.
+Austronesian languages adopted these features but not uniformly,
+such that features attributed to contact are uneven across the region.
+Some are not found in some subgroups or branches within subgroups.
+Distribution maps of phonological,
+grammatical, and lexical features show many features are not
+found in all subgroups,
+do not align with each other,
+and some are found outside the region.
+Austronesian languages in the region are a kind of uneven hybrid
+that make them typologically different from Austronesian languages
+to the west and north.
+
+The study evaluates earlier proposals along with new possibilities
+to link subgroups in different ways,
+but finds no exclusively shared
+innovations inherited from a common parent.
+Scenarios are explored of how Austronesian-speaking peoples came into the region.
+The uneven distribution of various features is addressed.
+Implications are many, and warrant a revised picture of the Austronesian world.
+
+Several factors enabled this more in-depth study than has been previously possible.
+Both authors have extensive experience in the region.
+Many Dutch-era sources have become accessible online.
+Recent publications and unpublished data have been shared by others.
+This enabled the authors to glean data from 517 Austronesian
+and Papuan languages from within the region as well as to the
+west and east of it, providing context.
+Within the region, data have been gleaned from 292 varieties
+(256 Austronesian, 36 Papuan), some of which are now extinct.
+The volume is data rich with 334 data tables,
+78 figures (including 32 maps),
+and 195 numbered examples/lists of data.
+}
+
+\end{document}
+
+%Standard table column widths:
+%2.109mm
+%0.548em
+%6pt
+
+%CHECK
+%All Bellwood 2019 references are pointing to the correct one
+%\setcounter{xnumi}{}
+%\setcounter{tableex}{}
+%All < > are either \<\> (infixes) or ‹› (orthography)

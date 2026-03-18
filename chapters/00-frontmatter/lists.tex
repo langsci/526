@@ -1,0 +1,18 @@
+%\etocsetnexttocdepth{chapter}										%For chapter overview
+%\phantomsection																	%For chapter overview
+%\addcontentsline{toc}{chapter}{\listfigurename}	%For chapter overview	%This generates the wrong name in the Bookmarks
+%\renewcommand*\contentsname{Chapter overview}		%For chapter overview
+%{\sloppy\tableofcontents}												%For chapter overview
+
+\renewcommand{\listfigurename}{List of figures}
+\renewcommand{\listtablename}{List of tables}
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\listfigurename}
+{\sloppy\listoffigures}
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\listtablename}
+{\sloppy\listoftables}

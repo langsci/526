@@ -1,0 +1,503 @@
+Funai Helong	heg	mauka,	cuscus	(**mantəR),	\cite[19]{Edwards2018c}	(\it{mauka} borrowed from Meto)
+		muti		misc.
+Roi'is Amarasi	(aaz)	urum	cuscus	misc.	Edwards fieldnotes
+Kotos Amarasi	aaz	ukum	cuscus	misc.	Edwards fieldnotes
+Amanuban	(aoz)	ukum	cuscus	misc.	Edwards fieldnotes
+Amanatun	(aoz)	ukum	cuscus	misc.	Edwards fieldnotes
+Amanatun, Lotas	(aoz)	aukum	cuscus	misc.	Edwards fieldnotes
+Amanatun, Toianas	(aoz)	akum	cuscus	misc.	Edwards fieldnotes
+Fatule'u	(aoz)	maukaʔ/maukuʔ	cuscus	(**mantəR)	Edwards fieldnotes
+Amfo'an	(aoz)	ukum	cuscus	misc.	Edwards fieldnotes
+Timaus	(aoz)	ʔmaukuʔ	cuscus	(**mantəR)	Edwards fieldnotes
+Kopas	(aoz)	ʔmaukaʔ/ʔmaukuʔ	cuscus	(**mantəR)	Edwards fieldnotes
+Ketun	(aoz)	ʔmaukaʔ	cuscus	(**mantəR)	Edwards fieldnotes
+Ketun, Nai'oni	(aoz)	ʔmakuʔ	cuscus	(**mantəR)	Edwards fieldnotes
+Molo	(aoz)	‹mauku›	cuscus	(**mantəR)	\cite[316]{Middelkoop1972}
+Miomafo	(aoz)	ʔmaukaʔ	cuscus	(**mantəR)	Edwards fieldnotes
+Miomafo, Tuamese'	(aoz)	makuʔ	cuscus	(**mantəR)	Edwards fieldnotes
+Insana	(aoz)	ʔmaukaʔ	cuscus	(**mantəR)	Edwards fieldnotes
+Kusa-Manea	(aoz)	akum	cuscus	misc.	Edwards fieldnotes
+Fehan Tetun	tet	kmeda	cuscus	(**mantəR)	\cite[112]{Morris1984}
+East Tetun	tet	meda	cuscus	(**mantəR)	\cite[140]{Morris1984}
+Waima'a	wmh	mide	cuscus	(**mantəR)	\cite{HimmelmannFreitas2006}
+Dadu'a	---	madah	cuscus	**mantəR	\cite[99]{Penn2006}
+Galolen	gal	madar	cuscus	(**mantəR)	\cite{Schapper2011}
+Ili'uun	ilu	maʧa	cuscus	**mantəR	\cite[127]{DeJosselinDeJong1947}
+Tugun	tzn	maʧar	cuscus	**mantəR	\cite{Hinton2023}
+Makuva	lva	mate	cuscus	(**mantəR)	\cite[433]{vanEngelenhoven2009}
+Roma	rmm	madar	cuscus	**mantəR	\cite[28]{Steven1991}
+Kisar	kje	masla	cuscus	(**mantəR)	\cite{ChristensenChristensen-Grimes1990}
+Leti	lti	mada	cuscus	**mantəR	\cite[423]{vanEngelenhoven2004}
+Moa	lex	mada	cuscus	**mantəR	\cite[145]{Jonker1932}
+Wetan	lex	mada	cuscus	**mantəR	Edwards fieldnotes
+East Damer, Ilih	dmr	madar	cuscus	**mantəR	Edwards fieldnotes
+East Damer	dmr	madar	cuscus	**mantəR	\cite[241]{Blust1982}
+Teun	tve	mata	cuscus	**mantəR	Edwards fieldnotes	(Wetan loan?) 
+Nila	nil	kuskusa	cuscus	misc.	Edwards fieldnotes	Mly. loan)
+Serua	srw	kuskusa	cuscus	misc.	Edwards fieldnotes	(Mly. loan)
+Dawera-Daweloor	ddw	ku	cuscus	misc.	Edwards fieldnotes
+North Babar	bcd	mad-a	cuscus	**mantəR	Edwards fieldnotes
+SE. Babar	vbb	mɔt	cuscus	**mantəR	Edwards fieldnotes
+E. Marsela	vme	mɔt-ɛ	cuscus	**mantəR	Edwards fieldnotes
+Emplawas	emw	mutt-o	cuscus, civet	**mantəR	Edwards fieldnotes 	(semantic expansion)
+Tela	tvm	mut-ɛ	cuscus	**mantəR	Edwards fieldnotes
+Seluwasan	(sws)	mad-e	cuscus	**mantəR	Edwards fieldnotes
+Makatian	(sws)	mad-e	cuscus	**mantəR	Edwards fieldnotes
+Selaru	slu	mat	cuscus	**mantəR	\cite{CowardND}
+Welaun	wlh	lamara	cuscus	**mantəR	\cite[52]{Edwards2019}
+Kemak	kem	mada	cuscus	**mantəR	\cite[264]{Schapper2011}, Edwards fieldnotes
+S. Mambae	mgm	mat	cuscus	**mantəR	\cite[264]{Schapper2011} (probably /maat/ metathesised from **mata)
+Ujir	ugj	meday	cuscus	**məntəR	\cite{Schapper2011}
+West Kola	kvv	medah,	cuscus,	**məntəR;	\cite{Schapper2011}
+		medah waŋal	male cuscus	**waŋgal	
+East Kola	kvv	modah, moduh; 	cuscus;	**məntəR;	\cite{Schapper2011};
+		moduh wagal;	male cuscus;	**waŋgal;	\cite{Nivens2017},
+		dilɸʷol	k.o. cuscus	misc.	\cite{Nivens2017}
+Lorang	lrn	gwaŋal		**waŋgal	\cite{Schapper2011}
+Dobel	kvo	kwaŋal;	cuscus;	**waŋgal;	\cite{Schapper2011}
+		iʔuran	k.o. cuscus	**yikuran	\cite{Nivens2017}
+Koba	kpd	kwaŋal		**waŋgal	\cite{Schapper2011}
+Batuley	bay	gwaŋal		**waŋgal	\cite{Schapper2011}
+Manombai	woo	gaŋal		**waŋgal	\cite{Schapper2011}
+NW. Tarangan	txn	ʤikuran	k.o. cuscus	**yikuran	\cite{Nivens2017}
+SW. Tarangan	txn	medar;	cuscus;	**məntəR;	\cite{Schapper2011};
+		ʤikôran	k.o. cuscus	**yikuran	\cite{Nivens2017}
+Ujir	ugj	koa	bandicoot	**koyi	\cite{Schapper2011}
+West Kola	kvv	koyi	bandicoot	**koyi	\cite{Schapper2011}
+East Kola	kvv	kawaran;	bandicoot;	misc.	\cite{Schapper2011};
+		kooy,	bandicoot,	**koyi	\cite{Nivens2017}
+		kooy ahkaɸʷaŋ,	male bandicoot,		
+		kooy um	female bandicoot		
+Lorang	lrn	kagwaran	bandicoot	misc.	\cite{Schapper2011}
+Dobel	kvo	ʔosi	bandicoot	**koyi	\cite{Schapper2011}
+Koba	kpd	ŋarukwabala	bandicoot	misc.	\cite{Schapper2011}
+Batuley	bay	koy,	bandicoot,	misc.	\cite{Nivens2017}
+		karsirem	bandicoot which lives in cliff holes
+Manombai	woo	kagaran	bandicoot	misc.	\cite{Schapper2011}
+NW. Tarangan	txn	man	bandicoot?	misc.	
+SW. Tarangan	txn	man;	bandicoot?; very	misc.	\cite{Nivens2017}
+		man kákakau;	small bandicoot;			
+		karsiram	k. o. marsupial		
+Ujir	ugj	hayr	wallaby	**ɸayaR	\cite{Nivens2017}
+East Kola	kvv	feeh	wallaby	**ɸayaR	\cite{Nivens2017}
+Dobel	kvo	wasar	wallaby	**ɸayaR	\cite{Nivens2017}
+NW. Tarangan	txn	ɔr	wallaby	**ɸayaR	\cite{Nivens2017}
+SW. Tarangan	txn	ɔr	wallaby	**ɸayaR	\cite{Nivens2017}
+Ujir	ugj	ladi	sugar glider	**la[dŋ]i	\cite{Nivens2017}
+Dobel	kvo	laŋi	sugar glider	**la[dŋ]i	\cite{Nivens2017}
+NW. Tarangan	txn	lan	sugar glider	**la[dŋ]i	\cite{Nivens2017}
+SW. Tarangan	txn	lan	sugar glider	**la[dŋ]i	\cite{Nivens2017}
+Ujir	ugj	diʤua,	Three-striped dasyure	**ŋiR(iu)wa	\cite{Nivens2017}
+		daʤua	mouse/rat?		
+Kompane	kvp	dahia	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+West Kola	kvv	daʤiwa/dayiwa	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+East Kola	kvv	dahiwa/dehiwa	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+Lola	lcd	dihó	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+Lorang	lrn	ŋirugwa	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+Dobel	kvo	ŋiro	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+Koba	kpd	ŋarugwa	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+Barakai	baj	deːróʔ	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+Manombai	woo	derua	mouse/rat?	**ŋiR(iu)wa	\cite{Nivens2017}
+NE. Tarangan	tre	ʤirua	mouse/rat	**ŋiR(iu)wa	\cite{Nivens2017}
+NW. Tarangan	txn	ʤirua	mouse/rat	**ŋiR(iu)wa	\cite{Nivens2017}
+SW. Tarangan	txn	nirua	mouse/rat	**ŋiR(iu)wa	\cite{Nivens2017}
+Dobel	kvo	ʔartáw	mouse/rat?	**kartá[βw](u)	\cite{Nivens2017}
+Barakai	baj	kartá	mouse/rat?	**kartá[βw](u)	\cite{Nivens2017}
+Karey	kyd	kartáo	mouse/rat?	**kartá[βw](u)	\cite{Nivens2017}
+Batuley	bay	kartá	mouse/rat?	**kartá[βw](u)	\cite{Nivens2017}
+Mariri	mqi	kartáw	mouse/rat?	**kartá[βw](u)	\cite{Nivens2017}
+NE. Tarangan	tre	kartɔ	rat	**kartá[βw](u)	\cite{Nivens2017}
+SE. Tarangan	tre	kartawtáw	mouse	**kartá[βw](u)	\cite{Nivens2017}
+NW. Tarangan	txn	kartɔ	rat	**kartá[βw](u)	\cite{Nivens2017}
+SW. Tarangan	txn	kartɔw	rat	**kartá[βw](u)	\cite{Nivens2017}
+Lisela	lcl	blafen	cuscus	misc.	\cite{GrimesGrimes2020}	(loan?)
+Buru, Masarete & Rana	mhs	tonal	cuscus	(**taŋali)	\cite{GrimesGrimes2020}	(loan)}
+Buru, Wae Sama	mhs	lemet	cuscus	misc.	\cite{GrimesGrimes2020}
+Ambelau	amv	mate	marsupial	**mantəR	\cite[36]{Collins1981}	(*nt > \it{t})
+East Alune	alp	marel,	cuscus,	**mantəR,	\cite[196]{Ellen1993},
+		sibakw-e	female cuscus	**sibaw 	\cite[298]{Niggemeyer1951b}
+West Alune	alp	maʧel	cuscus	**mantəR	\cite[305]{vanEkris1864}
+Naka'ela	nae	sihaw-e	marsupial sp.	**sibaw	\cite[49]{Collins1983}
+Hulung	huk	sipa	marsupial	**sibaw	\cite[49]{Collins1983}
+Kayeli	kzl	maren	cuscus	**mantəR	\cite[40]{Stresemann1927}
+S. Wemale	tlw	madel-e	marsupial	**mantəR	\cite[55]{Collins1983}
+N. Wemale	weo	marel-e	marsupial	**mantəR	\cite[55]{Collins1983}
+Batumerah		marel-a	cuscus	**mantəR	\cite[254]{Ludeking1868}
+Manipa	mqp	marel-e	marsupial	**mantəR	\cite[68]{Collins1983}
+Piru	ppr	marel	cuscus	**mantəR	\cite[305]{vanEkris1864}
+Larike	alo	márid-u	cuscus	**mantəR	\cite[77]{LaidigLaidig1991}
+Wakasihu	alo	maril-u	marsupial	**mantəR	\cite[68]{Collins1983}
+Alang	alo	maril-u	marsupial	**mantəR	\cite[84]{Collins1983}
+Asilulu	asl	marel	cuscus	**mantəR	\cite[70]{Collins2003b}
+Paulohi	plh	makel-e	cuscus	**mantəR	\cite[130]{Stresemann1918}, \cite[196]{Ellen1993}
+Kaibobo	kzb	makel	cuscus	**mantəR	\cite[305]{vanEkris1864}
+Hitu	htu	makel	cuscus	**mantəR	\cite[68]{Collins1983}, \cite[196]{Ellen1993}
+Kamarian	kzx	maker	cuscus	**mantəR	\cite[305]{vanEkris1864}
+Haruku	hrk	makel	cuscus	**mantəR	\cite[305]{vanEkris1864}
+Kailolo	hrk	makel-e	marsupial	**mantəR	\cite[68]{Collins1983}
+Saparua	spr	makel	cuscus	**mantəR	\cite[305]{vanEkris1864}
+Latu	ltu	makell-o	marsupial	**mantəR	\cite[68]{Collins1983}
+Nusalaut	nul	makel	cuscus	**mantəR	\cite[305]{vanEkris1864}
+Amahai	amq	maker-o	cuscus	**mantəR	\cite[43]{Stresemann1918}
+Yalahatan 	jal	marer-e,	cuscus,	**mantəR,	\cite{BeckleyND}
+		mare siha	female cuscus	**sibaw	
+S. Nuaulu	nxl	maran-e,	cuscus,	**mantəR,	\cite[196]{Ellen1993}
+		siha	female cuscus	**sibaw	\cite[65, 102]{Bolton-Grimes1990,MatokeBolton2005}
+Manusela	wha	ihisi	cuscus	misc.	\cite{MacDonald2015}
+Liana-Seti	ste	mair-a	cuscus	**mantəR	\cite{McCollum-Grimes1990}
+Benggoi	bgy	med-am	cuscus	**mantəR	Nicholas Williams (pers. comm. July 2024)
+Hoti	hti	mala	cuscus	**mantəR	\cite[101]{Stresemann1927}
+S. Nuaulu	nxl	imanona	marsupial (long nose, smaller than cuscus);		\cite{Bolton-Grimes1990};
+			big rat;		\cite[43]{MatokeBolton2005}
+		tui-tui	Seram long-nosed bandicoot, \it{Rhynchomeles prattorum} ?;		Roy Ellen pers. comm. July 2024; 
+			civet 		\cite[114]{MatokeBolton2005} 
+Manusela	wha	mape-a	Seram long-nosed bandicoot, \it{Rhynchomeles prattorum}		\cite{MacDonald2015}
+Masiwang	bnf	mani	cuscus	*manuk	\cite[358]{LeCocqdArmandville1901}		\midrule
+Bati	bvt	manuk faniki	cuscus	*manuk	\cite[196]{Ellen1993}
+Geser	ges	kidor	cuscus	**kindoR	\cite[196]{Ellen1993}
+Gorom	ges	iˈdoʔ;	cuscus	**kindoR	\cite{Visser2019a};
+		‹i'do›	cuscus	**kindoR	\cite[51]{Kakerissa1986}
+Watubela	wah	kadola	cuscus	**kVndoR(a)	\cite[241]{Blust1982} from Collins
+Kesui	wah	udora	cuscus	**kVndoR(a)	\cite[241]{Blust1982} from Collins
+Kowiai	kwh	indor	cuscus	**kindoR	\cite{WalkerWalker1991}
+Teor	tev	medar	cuscus	**məntəR	Craig Marshall pers. comm. September 2025
+Yamdena 	jmd	manr-e	(white) cuscus	**məntəR	\cite{MettlerMettler1996}, \cite[65]{Drabbe1932b}
+Fordata	frd	medar	cuscus	**məntəR	\cite{MarshallMarshall-Grimes1990}
+Fordata, Sera	frd	kandruə	rat	**kVndoR(a)/**kazupay	\cite{MarshallMarshall-Grimes1990}
+Kei Kecil	kei	medar;	cuscus;	**məntəR	\cite{Travis2019}
+		leman	tan-coloured cuscus	misc.
+Kei Besar	kei	mendar	cuscus	**məntəR	\cite[196]{Ellen1993}
+Uruangnirin	urn	pora	cuscus	misc.	\cite{Visser2023}
+Onin	oni	ket	cuscus	misc.	\cite{Donohue2010}
+Sekar	skz	ket	cuscus	misc.	\cite{Donohue2010}
+Arguni	agf	ʔara waked	cuscus	**waked	\cite{Narfafan2011}
+Erokwanas	erw	matafeis	cuscus	**mantəR	\cite{Donohue2010}
+Irarutu	irh	ʤemug	cuscus	misc.	\cite[224]{Jackson2014}
+Kuri	nbn	auˈɛs	opossum	misc.	SV \citeyear[248]{SmitsVoorhoeve1992b}
+Kei Kecil	kei	halee	mouselike marsupial		\cite{Travis2019}
+Kei Besar	kei	‹helé›	andicoot		\cite[196]{Ellen1993}
+Uruangnirin	urn	yawat kawer;	bandicoot;		\cite{Visser2023} (lit. `earth rat')
+		yawat	mouse, rat	
+Onin-1	oni	yawat	marsupial, mouse		SV \citeyear[237, 243]{SmitsVoorhoeve1992a}
+Onin-2	oni	yawar teroba	bandicoot		\cite{Donohue2010} (lit. `earth rat')
+Sekar	skz	kawat	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Arguni	agf	rawake	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a} (C. met.?)
+Erokwanas	erw	adobat	rat, marsupial		\cite{Donohue2010}
+Kowiai-1	kwh	ɸanai	tree wallaby	misc.	\cite{WalkerWalker1991} (Mly. \it{lao-lao)}
+Kowiai-2	kwh	waŋguria	tree wallaby	**waked	SV \citeyear[263]{SmitsVoorhoeve1992b}
+Uruangnirin	urn	taˈker	tree wallaby		\cite{Visser2023}
+Onin	oni	kisor;	tree wallaby	{\#}kisor(o);	SV \citeyear[263]{SmitsVoorhoeve1992b},
+		kerá	tree wallaby	misc.	\cite{Donohue2010}
+Sekar	skz	tamtik	tree wallaby	misc.	SV \citeyear[263]{SmitsVoorhoeve1992b}
+Arguni	agf	oyambo	tree wallaby	misc.	SV \citeyear[263]{SmitsVoorhoeve1992b}
+Erokwanas	erw	wayambu	tree kangaroo	misc.	\cite{Donohue2010}
+Irarutu	irh	waire;	tree wallaby;	**waked;	SV \citeyear[263]{SmitsVoorhoeve1992b};
+		amoro	tree wallaby	**amoR	SV \citeyear[263]{SmitsVoorhoeve1992b}
+Kei	kei	laʔe;	kangaroo; 	misc.	\cite{Travis2019}
+		aha;	wallaby; 	misc.		(Mly. \it{kangguru pohon} `tree kangaroo')
+		ha	wallaby	misc.		(Mly. \it{sm kangguru yg agak kecil} `k.o. kangaroo which is rather small')
+Uruangnirin	urn	taˈpar	k.o. kangaroo	misc.	\cite{Visser2023}	(Mly. \it{lalau})
+Onin	oni	wekar	kangaroo	**waked	SV \citeyear[241]{SmitsVoorhoeve1992b}
+Sekar	skz	wekar;	kangaroo;	**waked;	SV \citeyear[241]{SmitsVoorhoeve1992b};
+		lawlaw	kangaroo	misc.	\cite{Donohue2010} (Mly. \it{laolao/saham})
+Arguni	agf	utae;	kangaroo;	misc.	SV \citeyear[241]{SmitsVoorhoeve1992b};
+		ayámbu	kangaroo	misc.	\cite{Narfafan2011}
+Irarutu	irh	wasio	kangaroo	misc.	SV \citeyear[241]{SmitsVoorhoeve1992b}
+		amore	kangaroo	**amoR	SV \citeyear[241]{SmitsVoorhoeve1992b}
+Kuri	nbn	kabˈey	kangaroo	misc.	SV \citeyear[241]{SmitsVoorhoeve1992b}
+Banda-Elat	bnd	mender	cuscus	**məntəR	\cite[196]{Ellen1993}
+Banda-(Eli?)	bnd	mbender	cuscus	**məntəR	\cite[45]{Kakerissa1996}
+Ambel	wgo	tamʧám;	cuscus;	misc.	\cite[777]{Arnold2018}, LA
+		tamʧám hu;	ground cuscus;
+		tamʧám malélen	kind of cuscus
+Biga	bhc	ta³f;	cuscus;	misc.	
+		kaˈsu³t	ground cuscus	misc.	LA
+As	asz	do³;	cuscus;	**kVndoR(a)/**kindoR	LA
+		le³ntati gu³	ground cuscus	misc.
+Matbat	xmt	doː (?);	cuscus	**kVndoR(a)/**kindoR	\cite[241]{Blust1982}
+		iba¹²¹ŋ	cuscus	misc.	\cite{Schapper2011}
+Ma'ya	slz	amˈʧa¹²m	cuscus	misc.	LA
+Legenyem	lcc	tamˈca¹²m	cuscus	misc.	LA
+Salawati	xmx	yo³l;	cuscus;	misc.	LA
+		əsu¹²k	ground cuscus	misc.
+Batta	xmx	yo¹l;	cuscus;	misc.	LA
+		qəwi¹²t	ground cuscus	misc.
+Buli	bzq	do	small marsupial	**kVndoR(a)/**kindoR	\cite[241]{Blust1982}
+Sawai	szw	sɛfsɛf	cuscus	misc.	\cite{WhislerWhisler1995b}
+Patani	ptn	sifsɛf	cuscus	misc.	Linne Iren Sjånes Rødvand (pers. comm. August 2023)
+Giman	gzn	do	cuscus	**kVndoR(a)/**kindoR	\cite{Teljeur-Grimes1990}
+Taba	mky	kusok	cuscus	*kusor	\cite[105]{Collins1982a}
+Biak	bhw	rambav	cuscus	misc.	\cite{Heuvel2019}
+Roon	rnn	maŋgadiaβi	opossum	misc.	SV \citeyear[248]{SmitsVoorhoeve1992b}
+Dusner	dsn	urɛm	opossum	misc.	SV \citeyear[248]{SmitsVoorhoeve1992b}
+Meoswar	mvx	karau	opossum	misc.	SV \citeyear[248]{SmitsVoorhoeve1992b}
+Yaur	jau	ˈubiɛ	opossum	misc.	SV \citeyear[249]{SmitsVoorhoeve1992b}
+Yerisiam	ire	átóòrà 	cuscus	**kVndoR(a)	\cite[69]{Kamholz2014}
+Yeretaur	gop	naˈgɔmbrar	opossum	misc.	SV \citeyear[249]{SmitsVoorhoeve1992b}
+Moor	mhz	aˈtiɛta/aˈtiat	opossum	misc.	SV \citeyear[249]{SmitsVoorhoeve1992b}
+Warembori	wsa	maya-ro/maye	cuscus	**mantəR	\cite{Donohue1999b}
+Yoke	yki	maraɣi	cuscus	**mantəR	\cite{Donohue1999b}
+Ansus	and	amu	cuscus	misc.	\cite{PriceDonohue2009}
+Ambai	amk	fimuna;	cuscus;	misc.	\cite{Price2002}
+		tumaŋ;	ground cuscus, Strigocuscus gymnotis	misc.
+		waiwiraŋ tuwa;	common cuscus, Phalanger orientalis	misc.
+		wintumaŋ	species of ringtail possum/cuscus	misc.
+Wandamen	wad	aniai 	opossum	misc.	SV \citeyear[248]{SmitsVoorhoeve1992b}
+Serui-Laut	seu	wondoi	opossum	misc.	SV \citeyear[248]{SmitsVoorhoeve1992b}
+Matbat	xmt	isɔ¹²k	bandicoot, \it{Echymipera kalubu}		\cite{Schapper2011}
+Ma'ya	slz	kalubu	bandicoot, \it{Echymipera kalubu}		\cite{Flannery1995}
+Biak	bhw	karau (sop)	bandicoot, \it{Echymipera kalubu}		\cite{Schapper2011}
+Moor	mhz	atíata	bandicoot		\cite{Schapper2011}
+Ansus	and	pimunau	bandicoot		\cite{PriceDonohue2009}
+Ambai	amk	kafa 	bandicoot (generic)		\cite{Price2002}
+As	asz	mowɔ	kangaroo	misc.	SV \citeyear[241]{SmitsVoorhoeve1992b}
+Biak	bhw	wane 	(tree) kangaroo	*wakin			SV \citeyear[241]{SmitsVoorhoeve1992b}
+Roon	rnn	musiɛw; 	tree kangaroo;	**musi;			SV SV \citeyear[241]{SmitsVoorhoeve1992b};
+		amɔr	kangaroo	**amoR			SV \citeyear[263]{SmitsVoorhoeve1992b}
+Dusner	dsn	wa(e)n	kangaroo	*wakin			SV SV \citeyear[241]{SmitsVoorhoeve1992b}
+Meoswar	mvx	amɔr	kangaroo	**amoR			SV SV \citeyear[241]{SmitsVoorhoeve1992b}
+Yaur	jau	uahiɛ	kangaroo	misc.	SV SV \citeyear[241]{SmitsVoorhoeve1992b}
+Yerisiam	ire	aure;	tree kangaroo	misc.	SV \citeyear[263]{SmitsVoorhoeve1992b}
+		nahiːʤaka	kangaroo	misc.	SV \citeyear[241]{SmitsVoorhoeve1992b}
+Yeretuar	gop	ˈmaɛ; 	tree kangaroo; 	misc.	SV \citeyear[263]{SmitsVoorhoeve1992b}
+		buka	kangaroo	misc.	SV \citeyear[241]{SmitsVoorhoeve1992b}
+Moor	mhz	ˈwana(ra);	(tree) kangaroo;	*wakin	SV \citeyear[241]{SmitsVoorhoeve1992b}, 263
+		ˈwusi	(tree) kangaroo	**musi	SV \citeyear[241]{SmitsVoorhoeve1992b}, 263
+Ansus	and	(kapa) musi;	tree kangaroo;	**musi	\cite{PriceDonohue2009}
+		amo	wallaby	**amoR	\cite{PriceDonohue2009}
+Ambai	amk	mansa(ŋ);	Grizzled Tree Kangaroo, Dendrolagus inustus	**mantəR;	\cite{Price2002}
+		amo	Brown Wallaby, Dorcopsis veterum	**amoR	\cite{Price2002}
+Wandamen	wad	musi;	(tree) kangaroo	**musi	SV \citeyear[241]{SmitsVoorhoeve1992b}, 263
+		amor	(tree) kangaroo	**amoR	SV \citeyear[241]{SmitsVoorhoeve1992b}, 263
+Serui-Laut	seu	awondo;	tree kangaroo;	misc.	SV \citeyear[263]{SmitsVoorhoeve1992b}
+		aˈmo	kangaroo	**amoR	SV \citeyear[241]{SmitsVoorhoeve1992b}
+Tandia	tni	dɔβiɛβiːβi	kangaroo	misc.	SV \citeyear[241]{SmitsVoorhoeve1992b}
+Matbat	xmt	ibem	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Roon	rnn	rɔbrɔbuɔ	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Meoswar	mvx	musiɛw	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Yaur	jau	regrɛ	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Yeretuar	gop	uasi	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Moor	mhz	wabum(a)/wawuma	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Ansus	and	lura	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Wandamen	wad	yemok;	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+		(aniai) bekatar;	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+		repor;	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+		wenawawo;	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+		aniai (kakopa)	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Serui-Laut	seu	ainai	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Waropen	wrp	iran bouwa	marsupial		SV \citeyear[237]{SmitsVoorhoeve1992a}
+Bantik	bnq	kusey	cuscus	**kusay	\cite[89]{Sneddon1984}
+Ratahan	rth	kusey	cuscus	**kusay	\cite[89]{Sneddon1984}
+Sangir	sxn	kuse/kusai	cuscus	**kusay	\cite[89]{Sneddon1984}
+Talaud	tld	usseʔa	cuscus	(**kusay)	\cite{BalaiBahasaSulawesiUtara2018}
+Talaud, Tirrawatta	tld	uhheʔa	cuscus	(**kusay)	\cite{BalaiBahasaSulawesiUtara2018}
+Tondano	tdn	kuse;	cuscus;	**kusay	\cite[151]{Sneddon1978}
+		tembuŋ	small kind of cuscus	misc.	\cite[161,174]{Stokhof1983b}
+Tontemboan	tnt	‹kusé›;	bear cuscus;	**kusay	\cite[151]{Sneddon1978}
+		‹tĕmbuŋ/tĕbuŋ›	dwarf cuscus	misc.	\cite[205, 497, 502]{Schwarz1908}
+Tombulu	tom	kuse	cuscus	**kusay	\cite[151]{Sneddon1978}
+Tonsea	txs	kuse	cuscus	**kusay	\cite[151]{Sneddon1978}
+Bolango	bld	ʔuse	bear cuscus	**kusay	\cite[322]{Usup1986}
+Buol	blf	kute	bear cuscus	**kusay	\cite[322]{Usup1986}
+Bintauna	bne	ʔuse	bear cuscus	**kusay	\cite[322]{Usup1986}
+Gorontalo	gor	bubudu	cuscus	misc.	\cite[437]{Adriani1902}
+Kaidipang	kzp	kuse	bear cuscus	**kusay	\cite[322]{Usup1986}
+Lolak	llq	kuse	bear cuscus	**kusay	\cite[322]{Usup1986}
+Mongondow	mog	kutoy	bear cuscus	**kusay	\cite[322]{Usup1986}
+Ponosakan	pns	kusoy	bear cuscus	**kusay	\cite[322]{Usup1986}
+Suwawa	swu	ʔute	bear cuscus	**kusay	\cite[322]{Usup1986}
+Tajio	tdj	timpaus;	bear cuscus;	misc.	
+		taŋali	dwarf cuscus	**taŋali	\multirow{-2}{=}{\raggedright \citet[147, footnote 3]{Nourse1998}}
+Lauje	law	usé timpaus;	bear cuscus;	**kusay	Phil Quick (DM)
+		taŋali	dwarf cuscus	**taŋali	
+Pendau	ums	timpaus;	bear cuscus;	misc.	Tajio survey (DM)
+		taŋali	dwarf cuscus	**taŋali	
+Wolio	wlo	kuse	bear cuscus;	**kusay	\cite{Anceaux1987}
+		toŋali	dwarf cuscus	**taŋali	
+Wotu	wtw	kuse	cuscus	**kusay	\cite{Duri2017}
+Tado-Lindu	klw	kuse;	bear cuscus;	**kusay	\cite{AdrianiEsser1939}
+		taŋali	dwarf cuscus	**taŋali	
+Da'a Kaili	kzf	baŋgusu	cuscus	misc.	Don Barr (DM)
+Ledo Kaili	lew	kuse;	small cuscus;	**kusay	\cite{Evans2003}
+		ŋguyu	cuscus	misc.	
+Moma	myl	kuhe;	bear cuscus;	**kusay	\cite{AdrianiEsser1939}
+		taŋali	dwarf cuscus	**taŋali	
+Pamona	pmf	kuse;	bear cuscus;	**kusay	\cite{Adriani1928}
+		taŋali	dwarf cuscus	**taŋali	
+Uma	ppk	kuhe;	bear cuscus;	**kusay	Michael Martens (DM)
+		taŋali	dwarf cuscus	**taŋali	
+Sedoa	tvw	taŋali	dwarf cuscus	**taŋali	Michael Martens (DM)
+Soboyo	tlv	geke	cuscus 	misc.	\cite[56]{Fortgens1921}, Edwards fieldnotes
+Bobongko	bgb	kuseʔ	cuscus	**kusay	\cite[13]{Mead2018a}
+Banggai	bgz	kuai;	cuscus;	(**kusay)	\cite[202]{SantosaSuyanto2018}
+		buŋes	dwarf cuscus 	misc.	
+Balantak	blz	kuse	cuscus	**kusay	\cite{BusenitzBradbury2016}
+Saluan	loe	kuseʔ;	bear cuscus;	**kusay	\cite[117]{MeadPasanda2015}
+		bolotok	dwarf cuscus	misc.	
+Batui	zbt	kuseʔ	cuscus	**kusay	\cite[117]{MeadPasanda2015}
+Bungku	bkz	kuhe	cuscus	**kusay	\cite[444]{Mead1998}
+Tolaki	lbw	kuhe,	bear cuscus;	**kusay	\cite[444]{Mead1998};
+		βeŋu;	dwarf cuscus;	misc.	Edwards fieldnotes
+		puda	cuscus	misc.	Edwards fieldnotes
+Moronene	mqn	kuhe	cuscus	**kusay	David Andersen (DM)
+Padoe	pdo	kuhe	cuscus	**kusay	\cite[444]{Mead1998}
+Taloki	tlk	kuhe;	bear cuscus;	**kusay	\cite{Mead2020d}
+		doalo	dwarf cuscus	misc.	
+Kulisusu	vkl	kuhe;	bear cuscus;	**kusay	\cite{Mead2019}
+		toŋali	dwarf cuscus	**taŋali	
+Kodeoha	vko	monea	cuscus	misc.	Edwards fieldnotes
+Mori Bawah	xmz	kuhe;	bear cuscus;	**kusay	\cite[51]{Esser1927}
+		toŋali	dwarf cuscus	**taŋali	
+Wawonii	wow	toŋali	dwarf cuscus	**taŋali	\cite[201]{FaridaDahruddin2008}
+Busoa	bup	mante	cuscus	**mantəR	\cite{vandenBerg2020}
+Cia-Cia	cia	kuse,	bear cuscus,	**kusay, 	
+		mante;	bear cuscus;	**mantəR	\cite{Mead2015,Mead2017c,MeadTruong2021}	(\it{kuse} in Wasambua)
+		toŋali	dwarf cuscus	**taŋali	
+Kaisabu	cia	mante	cuscus	**mantəR	\cite{Mead2017a}
+Lasalimu	llm	suʔe;	bear cuscus;	**kusay	\cite{Mead2018b} \it{(met.)}
+		toŋali	dwarf cuscus	**taŋali	
+Muna	mnb	kuhe;	bear cuscus;	**kusay	\cite{SiduVanDenBerg1996}
+		kampaʁi	dwarf cuscus	misc.	
+S. Muna	mnb	kuʔe	cuscus	**kusay	\cite{Atakasi2006}
+Pancana	pnp	mante	bear/dwarf cuscus	**mantəR	\cite{McDowell2010}
+Kambowa	ues	mante;	bear cuscus;	**mantəR	\cite{Mead2020b}
+		tonali	dwarf cuscus	**taŋali	
+Kioko	ues	mante;	bear cuscus;	**mantəR	\cite[13]{Mead2020c}	(\it{xuloko} possibly squirrel)
+		xuloko	dwarf cuscus	misc.	
+Kumbewaha	xks	suʔe;	bear cuscus;	**kusay	\cite{Mead2017b} \it{(met.)}
+		toŋali	dwarf cuscus	**taŋali	
+Wolowa	xks	mante	cuscus	**mantəR	\cite{Mead2017c}
+Kaimbulawa	zka	mante	bear/dwarf cuscus	**mantəR	\cite{McDowell2010}
+Makasar	mak	memu	cuscus	misc.	\cite[34]{Meyer1896}
+Selayar	sly	mému	cuscus	misc.	\cite[52]{Stokhof1987}
+Bugis	bug	mému	cuscus	misc.	\cite[281]{Nur2008}
+Toraja-Sa'dan	sda	kuse;	cuscus;	**kusay	\cite[64]{Mills1981};
+		taŋali	dwarf cuscus	**taŋali	\cite{Tammu1972}
+Mamasa	mqj	kuse;	bear cuscus;	**kusay	David Matti (DM)
+		taŋali	dwarf cuscus	**taŋali	Michael Martens (DM)
+Mamuju	mqx	kuse;	cuscus;	**kusay	\cite[10]{Stokhof1984}
+		taŋali	cuscus	**taŋali	
+Aralle-Tabulahan	atq	kuse	cuscus	**kusay	\cite{Ahpa2012}
+Bambam	ptu	kuse	cuscus	**kusay	Phil Campbell (DM)
+Mandar	mdr	use	cuscus	**kusay	\cite[64]{Mills1981}
+Tae'	rob	kuse	cuscus	**kusay	Ian Vail (via William McConvell
+Duri	mvp	kuse	cuscus	**kusay	Michael Martens (DM)
+Maiwa	wmm	moʔgoŋ	cuscus	misc.	Masao Yamaguchi (DM)
+Rampi	lje	‹kühe›	cuscus	**kusay	Michael Martens (DM)
+Napu	npy	kuhe;	bear cuscus;	**kusay	Michael Martens (DM)
+		taŋali	dwarf cuscus	**taŋali	
+Behoa	bep	kuhe	bear cuscus	**kusay	Michael Martens (DM)
+		taŋali	dwarf cuscus	**taŋali	
+Bada	bhz	kuhe	cuscus	**kusay	Michael Martens (DM)
+Lemolang	ley	kuse	bear cuscus	**kusay	William McConvell pers. comm. 9 June 2021
+Seko Padang	skx	kuse;	bear cuscus;	**kusay	Michael Martens (DM)
+		tunnaliʔ	dwarf cuscus	(**taŋali)	
+Iha	ihp	kɛt	cuscus	misc.	\cite{Donohue2010}
+Mbaham	bdv	matabes	cuscus	**mantəR	\cite{Donohue2010}
+Kalamang	kgv	se	cuscus	misc.	\cite[481]{Visser2022}
+Makasae	mkz	laubuti	cuscus	**lau	\cite{Klamer2002}
+Makalero	mjb	lou	cuscus	**lau	\cite[574]{Huber2011}	
+Bunak	bfn	zulet	cuscus	misc.	\cite[269]{Schapper2011}
+Fataluku	ddg	at͡sur;	cuscus species;	misc.	\cite[176]{Heston2015};
+		loo	cuscus species	**lau	\cite[188]{Heston2015}
+Iha	ihp	hɪŋgyɛri	bandicoot	misc.	\cite{Donohue2010}
+Mbaham	bdv	koporów	bandicoot	misc.	\cite{Donohue2010ʉ
+Iha	ihp	waɣɛr	tree kangaroo	**waked	\cite{Donohue2010}
+Mbaham	bdv	wanía	tree kangaroo	misc.	\cite[69]{Cottet2015}
+Kalamang	kgv	taer	tree kangaroo	misc.	\cite[483]{Visser2022}
+Iha	ihp	k͡ponk͡pon;	kangaroo;	misc.	\cite{Donohue2010};
+		tan hɔ́mbi	kangaroo	misc.	\cite{Donohue2010}
+Mbaham	bdv	kaβáɣat	kangaroo	misc.	\cite{Donohue2010}
+Kalamang	kgv	tapar	kangaroo	misc.	\cite[484]{Visser2022}
+Iha	ihp	manda;	bat	*mandəl;	SV \citeyear[122]{SmitsVoorhoeve1998}
+		mbayɛr	bat	misc.	\cite{Donohue2010}
+Mbaham	bdv	mbayé	bat	misc.	\cite[63]{Cottet2015}
+Kalamang	kgv	kuek	fruit bat	misc.	\cite[467]{Visser2022}
+Makasae	mkz	siri	bat	misc.	\cite{Klamer2002}
+Makalero	mjb	hiriʔ	bat	misc.	\cite[556]{Huber2011}
+Bunak	bfn	zupal	bat	misc.	\cite{Klamer2002}
+Fataluku	ddg	mat͡sa	bat	*mandəl	\cite[189]{Heston2015}
+Oirata	oia	maʈa-mailur	large bat	*mandəl	\cite{DeJosselinDeJong1937} cited in \cite[493]{UsherSchapper2022}
+Wersing	kvw	məduku	bat	*mandəl	Johnny Banamtuan pers. comm. Oct.2020
+Sawila	swt	madiiku 	bat	*mandəl	Johnny Banamtuan pers. comm. Oct.2020
+Kamang	woi	maˈtei	bat	*mandəl	\cite[87]{SchapperManimau2011}	(Dialect variants: \it{mate, matii})
+Abui	abz	maˈrɛl	bat	*mandəl	\cite[85]{KratochvilDelpada2008}
+Kafoa	kpu	marel	bat	*mandəl	\cite[493]{UsherSchapper2022}
+Klon	kyo	mədel	bat	*mandəl	\cite[269]{Schapper2011}
+Teiwa	twe	medi	bat	*mandəl	\cite[35]{KlamerSir2011}
+Klamu 	nec	[ˈmărˑɑ]	bat	*mandəl	Grimes fieldnotes	(see §2.4.6)
+Papuna	---	marie	bat	*mandəl	\cite{Delpada2011}
+Mauta	lev	madːe	bat	*mandəl	\cite[92]{HoltonKoly2008}	(k.o. slightly furry bat)
+Tubbe	lev	madːe	bat	*mandəl	\cite[92]{HoltonKoly2008}	(k.o. slightly furry bat)
+Lamma	lve	madːal	flying fox	*mandəl	\cite[92]{HoltonKoly2008}	(Indonesian \it{kalung})
+Sahu	saj	ʔúsoro	cuscus	*kusor	\cite[131]{VisserVoorhoeve1987}
+Ternate	tft	kuso	cuscus	*kusor	\cite[269]{Schapper2011}
+Tidore	tvo	kuso	cuscus	*kusor	\cite[269]{Schapper2011}
+Galela	gbi	kuso	cuscus	*kusor	\cite[223]{vanBaarda1895}
+Tobelo	tlb	kuho	cuscus	*kusor	\cite[212]{Hueting1908}
+Pagu	pgu	kuso	cuscus	*kusor	Dalan Mehuli Perangin Angin pers. comm. May 2023
+W. Makian	mky	kusu	cuscus	*kusor	\cite[81]{Collins1982b}
+Hatam	had	indzɛya	opossum	**kVndoR(a)	SV \citeyear[221]{SmitsVoorhoeve1998}
+Kehu	khh	kíil-yô	cuscus	misc.	\cite[255]{Kamholz2012}
+Kemberano	bzp	metawetu,	cuscus	**mantəR,	\cite{Voorhoeve1984}
+		tuaijna	cuscus	misc.	
+Mansim	---	nir gwem;  	cuscus	misc.	\cite{Reesink2002c}
+		ogu;	cuscus	misc.
+		usi	cuscus	misc.
+Maybrat	ayz	kak (ara)	cuscus	misc.	\cite[157]{Dol2007}
+Meyah	mej	ugwodi	cuscus	misc.	\cite{Reesink2002d}
+Mor	moq	waduma	cuscus	misc.	\cite{Donohue2010}
+Moskona	mtj	mioda	cuscus	**mantəR	\cite{Gravelle2010b}
+Maybrat	ayz	swi	k.o. bird, k.o. cuscus	misc.	\cite[305, 310]{Dol2007}	(both glosses occur)
+Yawa	yva	maer;	cuscus;	**mantəR	\cite[28]{JonesPaai1989}
+		maidendem;	Red Cuscus;
+		maituntum;	Spotted Cuscus;
+		maikane;	brown cuscus;
+		maibuga;	White Cuscus;
+		tuvoae;	Oriental Cuscus;
+		mairiʤam	ground cuscus		
+Abun	kgr	mit	kangaroo	**mantəR	SV \citeyear[219]{SmitsVoorhoeve1998}
+Karon Dori	kgw	akos	kangaroo	misc.	SV \citeyear[118, 218, 228]{SmitsVoorhoeve1998}
+Kwerba	kwe	weta	kangaroo	misc.	SV \citeyear[117, 218, 228]{SmitsVoorhoeve1998}
+Moraid	msg	mawa	kangaroo	misc.	SV \citeyear[118, 219, 228]{SmitsVoorhoeve1998}
+Mpur	akc	kamti, baʤinek	kangaroo	misc.	SV \citeyear[219]{SmitsVoorhoeve1998}
+Maybrat	ayz	tief/tiyif	ground kangaroo	misc.	Dol 2007: 306
+Samarokena	tmj	turasa	kangaroo	misc.	SV \citeyear[117, 218, 228]{SmitsVoorhoeve1998}
+Tanahmerah	tcm	nawino	kangaroo	misc.	SV \citeyear[219]{SmitsVoorhoeve1994}
+Yahadian	ner	kisoro	kangaroo	{\#}kisor(o)	SV \citeyear[219]{SmitsVoorhoeve1998}
+Yawa	yva	maeramon 	wallaby	**mantəR	\cite[28]{JonesPaai1989}
+Duriankere	dbn	kesyoro	tree wallaby	{\#}kisor(o)	SV \citeyear[228]{SmitsVoorhoeve1998}
+Inanwatan	szp	isoro	tree wallaby	{\#}kisor(o)	SV \citeyear[219]{SmitsVoorhoeve1998}
+Kais	kzm	kisoro	tree wallaby	{\#}kisor(o)	SV \citeyear[229]{SmitsVoorhoeve1998}
+Puragi	pru	kamaʤi	tree wallaby	**mantəR	SV \citeyear[229]{SmitsVoorhoeve1998}
+Yawa	yva	maisyaonda 	tree wallaby	misc.	\cite[28]{JonesPaai1989}
+Karon Dori	kgw	katuwa	tree wallaby	misc.	SV \citeyear[228]{SmitsVoorhoeve1998}
+Konda	knd	‹märet›	tree wallaby	**mantəR	SV \citeyear[228]{SmitsVoorhoeve1998}
+Kwerba	kwe	koreya	tree wallaby	misc.	SV \citeyear[228]{SmitsVoorhoeve1998}
+Maybrat	ayz	katui	tree kangaroo	misc.	Dol 2007: 300
+Moi	mxn	kasyor	tree wallaby	{\#}kisor(o)	SV \citeyear[228]{SmitsVoorhoeve1998}
+Mor	moq	ˈiror/iora	tree wallaby	{\#}kisor(o)	\cite{Donohue2010}/SV \citeyear[229]{SmitsVoorhoeve1998}
+Moraid	msg	‹mähäbi›	tree wallaby	misc.	SV \citeyear[118, 228]{SmitsVoorhoeve1998}
+Mpur	akc	a soma;	black wallaby;	misc.	SV \citeyear[228]{SmitsVoorhoeve1998}
+		kambu	grey tree wallaby	misc.	
+Samarokena	tmj	mawena	tree wallaby	misc.	SV \citeyear[117, 218, 228]{SmitsVoorhoeve1998}
+Seget	sbg	suen	tree wallaby	misc.	SV \citeyear[118, 228]{SmitsVoorhoeve1998}
+Tanahmerah	tcm	uaɛ	tree wallaby	misc.	SV \citeyear[229]{SmitsVoorhoeve1994}
+Tunggare	trt	kura	tree wallaby	misc.	SV \citeyear[228]{SmitsVoorhoeve1998}
+Isirawa 	srl	iˈroro	marsupial	**kindoR	SV \citeyear[117]{SmitsVoorhoeve1998}
+Kalabra	kzz	me	marsupial	**mantəR	SV \citeyear[118]{SmitsVoorhoeve1998} 
+Karon Dori	kgw	teftiag	marsupial	misc.	SV \citeyear[118, 218, 228]{SmitsVoorhoeve1998}
+Kwerba	kwe	ˈbeberiʧa	marsupial	misc.	SV \citeyear[117, 218, 228]{SmitsVoorhoeve1998}
+Mawes	mgk	kudur	marsupial	**kVndoR(a)	SV \citeyear[128]{SmitsVoorhoeve1994}
+Moraid	msg	mänoho	marsupial	misc.	SV \citeyear[118, 219, 228]{SmitsVoorhoeve1998}
+Mpur	akc	kerer	marsupial	misc.	SV \citeyear[118, 218, 228]{SmitsVoorhoeve1998}
+Orya	ury	sindor	marsupial	**kindoR	SV \citeyear[128]{SmitsVoorhoeve1994}
+Samarokena	tmj	ˈsinifa	marsupial	misc.	SV \citeyear[117, 218, 228]{SmitsVoorhoeve1998}
+Seget	sbg	bau	marsupial	misc.	SV \citeyear[118, 228]{SmitsVoorhoeve1998}
+Sougb	mnx	meːsur	marsupial	**mantəR	SV \citeyear[118]{SmitsVoorhoeve1998}
+Tanahmerah	tcm	kuehɛburi	marsupial	misc.	SV \citeyear[118]{SmitsVoorhoeve1994}
+Tunggare	trt	begih, bɛgi	marsupial	misc.	SV \citeyear[117]{SmitsVoorhoeve1998}
+Maybrat	ayz	wafu;	marsupial;	misc.	SV \citeyear[118]{SmitsVoorhoeve1998}
+		ʤifʤa;	marsupial;	misc.	
+		difidiag	small marsupial	misc.	
+Yawa	yva	panaim	bandicoot	misc.	\cite[28]{JonesPaai1989}

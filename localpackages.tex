@@ -1,0 +1,91 @@
+\usepackage{langsci-optional}
+\usepackage{langsci-gb4e}
+\usepackage{langsci-lgr}
+
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily,tabsize=2,breaklines=true}
+
+\usepackage[table]{xcolor}	%for shading table cells
+\usepackage{footnotehyper}	%for multiple footnotes in tables/tabulars
+\usepackage{enumitem}				%to adjust spacing between lists
+	\setlist{noitemsep,topsep=0.75pt}	
+\usepackage{dirtree}				%for classifications at the end of each chapter
+	\renewcommand{\DTstyle}{\normalfont}	%to make the font of these not tt
+
+\usepackage{silence}				%to filter out unwanted warnings
+	\WarningFilter{biblatex}{Name format 'first-last' deprecated}
+	\WarningFilter{latex}{`h' float specifier changed to `ht'}
+	\WarningFilter{latex}{Unused global option(s)}
+	\WarningFilter{latex}{Float too large for page}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Packages for floats %% Packages for floats %% Packages for floats %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{graphicx}			%to include figures
+% \usepackage{subcaption}		%to include three+ figures side-by-side
+% 	\setlength\fboxsep{-0.1pt}\setlength\fboxrule{0.25pt}	% not sure about this one
+\usepackage{rotating}			%to rotate figures
+\usepackage{caption}			%to allow line breaks in figure captions
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Packages for tables %% Packages for tables %% Packages for tables %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{array}						%can't remember why this is needed
+\usepackage{booktabs}					%can't remember why this is needed
+\usepackage{threeparttable}		%for table notes
+	\makeatletter								%Recuce space between tablenotes
+	\g@addto@macro\TPTnoteSettings{\setlength\baselineskip{10pt}} 
+	\makeatother
+\usepackage{hhline}						%basically only for \hhline{~} to `skip' alternate grey/white row shading
+%\usepackage{arydshln}				%for dashed lines in tables
+%\usepackage{tabu}						%for dashed lines in tables	\tabucline[0.4pt blue!40 off 2pt]{-}
+\usepackage{tikz}
+\newcommand{\dshmidrule}[1]{%
+    \noalign{\vskip-1.6ex} % Adjust vertical positioning
+    %\multicolumn{#1}{@{}c@{}}{\tikz\draw[dashed] (0,0) -- (\dimexpr\linewidth-2\tabcolsep\relax,0);} \\
+    \multicolumn{#1}{@{}c@{}}{\tikz\draw[dashed] (0,0) -- (\dimexpr\linewidth-2\tabcolsep\relax,0);} \\
+		\noalign{\vskip-0.4ex}
+}
+\newcommand{\dashedline}[1]{%							&to allow dashedline in table in adjustbox, requires setting. requires manual setting (tabs should be carriage returns) but I can't get it to work any better e.g. \noalign{\vskip-1.5ex}	\multicolumn{9}{c}{\dashedline{142mm}} \\	\noalign{\vskip-0.5ex}
+    \tikz\draw[dashed] (0,0) -- (#1,0);
+}
+\usepackage{multirow}					%to allow a cell in a table to span multiple other cells
+%\usepackage{longtable}
+%\usepackage{tabularx}				%to allow tables to break across a page and/or to force them to reach to the margin
+\usepackage{xltabular}				%to allow tables to break across a page and/or to force them to reach to the margin
+	\let\clipbox\relax 					%Disable existing \clipbox to avoid redefinition so that adjustbox can be used
+\usepackage{adjustbox}				%to shrink large tables
+
+\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+%\AtBeginEnvironment{table}{\setlength{\intextsep}{5pt plus 1pt minus 1pt}}				%reduce whitespace aroung tables
+%\AtBeginEnvironment{table}{\setlength{\intextsep}{2pt plus 0.5pt minus 0.5pt}}		%reduce whitespace aroung tables even more than above
+\AtBeginEnvironment{table}{
+	\setlength{\textfloatsep}{6pt}				% Space between floats and text						%Default \floatsep =12.0pt plus 2.0pt minus 2.0pt
+	\setlength{\floatsep}{2pt}						% Space between adjacent floats						%Default \textfloatsep =20.0pt plus 2.0pt minus 4.0pt
+	\setlength{\intextsep}{6pt}						% Space between text and inline floats		%Default \intextsep =12.0pt plus 2.0pt minus 2.0pt
+	\setlength{\abovecaptionskip}{6pt}		% Space above the caption									%Default \abovecaptionskip =10.0pt
+	%\setlength{\belowcaptionskip}{3pt}		% Space below the caption									%Default \belowcaptionskip =0.0pt
+}
+
+% \newfontfamily\Armenian{Times New Roman}	%for Armenian script (§2.3.1.6)
+
+\newfontfamily\Armenian
+[Scale=MatchLowercase,
+BoldFont = Mardoto-Bold.ttf,
+SlantedFont = Mardoto-Italic.ttf,
+BoldSlantedFont = Mardoto-BoldItalic.ttf
+]{Mardoto-Regular.ttf}
+\AdditionalFontImprint{Mardoto}
+
+
+% \newfontfamily\Sanskrit{Nirmala UI}				%for Devanagari (§2.3.1.6)
+
+\newfontfamily\Sanskrit[Script=Devanagari]{NotoSerifDevanagari-Regular}
+
+\usepackage[subfigure]{tocloft}
+\cftsetpnumwidth{2em}  % fix misaligned roman numerals in TOC
+\usepackage{etoc}	%For chapter overview
+\usepackage{subfigure}
+\usepackage{langsci-branding}

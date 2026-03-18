@@ -1,0 +1,141 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%   Symbols and Characters   %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% αβσµ
+
+\newcommand{\tl}{\char`~}		%middle tilde ~
+\newcommand{\x}{×} 					%times symbol ×
+\newcommand{\rt}{√} 				%root symbol
+\newcommand{\Q}{\textquotesingle}	%straight apostrophe
+\newcommand{\<}{〈} 			%left angle (for infixes)
+\renewcommand{\>}{〉} 		%right angle (for infixes) ‹›
+\newcommand{\ra}{→} 		%->
+\newcommand{\da}{↓} 		%downwards arrow
+\newcommand{\la}{←} 		%<-
+\newcommand{\lra}{↔} 		%<->
+\newcommand{\0}{∅} 			%zero symbol
+%\newcommand{\hand}{\raisebox{-0.3ex}{\Large ☞}} %OT pointing hand
+\newcommand{\hand}{☞} 	%OT pointing hand
+\renewcommand{\ast}{⁎} 	%centered asterisk
+\newcommand{\gap}{\textunderscore} 	%underscore
+\newcommand{\A}{α}
+\newcommand{\sA}{\sub{α}}
+\newcommand{\sB}{\sub{β}}
+\newcommand{\br}[1]{$\overline{\textrm{#1}}$}	%Overbar (for N' etc.)
+\newcommand{\nbhyp}{\nobreakdash-\hspace{0pt}}
+
+\newcommand{\vp}{\vphantom}			%space equal to height of argument
+\newcommand{\hp}{\hphantom}			%space equal to width of argument
+\newcommand{\hr}{\hphantom{*}}	%space equal to width of *
+\newcommand{\hqa}{\hphantom{*qa}}	%space equal to width of *
+\newcommand{\hq}{\hphantom{*q}}	%space equal to width of *
+\newcommand{\hh}{\hphantom{*h}}	%space equal to width of *
+\newcommand{\hd}{\hphantom{*-}}	%space equal to width of *
+\newcommand{\hsh}{\hphantom{*{\#}}}	%space equal to width of *
+\newcommand{\lh}[1]{\leavevmode{\hp{#1}}} %space equal to width of argument for free translationa
+
+\newcommand{\sarc}[1]{{#1}̯} %non-syllabic, combining inverted breve below i.e. u̯
+\renewcommand{\j}{ʤ}				%dezh digraph
+\newcommand{\tS}{ʧ}					%tesh digraph
+\newcommand{\ny}{ɲ}					%palatal nasal -- enya = latin small letter n with left hook
+%\newcommand{\B}{\addfontfeature{StylisticSet=20} β} %voiced bilabial fricative
+\newcommand{\B}{β}	%voiced bilabial fricative
+\newcommand{\dt}{t̪} %voiceless dental plosive
+\newcommand{\tbfDZ}{\textbf{ɖ}͡\hspace{-1.57mm}\textbf{ʐ}}
+%\newcommand{\DZ}{ɖ\raisebox{0.5mm}{͡}ʐ}
+\newcommand{\DZ}{ɖ͡ʐ}
+
+\newcommand{\brac}[1]{\normalfont\textcolor{black}{[\sub{#1}}}  %square bracket with argument i.e. [NP
+\newcommand{\bracr}[1]{\normalfont\textcolor{black}{]\sub{#1}}} %right square bracket with argument i.e. ]NP
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  Font Styles & Formatting  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\definecolor{DarkBlue}{RGB}{0,0,255}
+%\newcommand{\ve}[1]{\textcolor{DarkBlue}{\textit{#1}}}
+\newcommand{\tbb}[1]{\textcolor{DarkBlue}{\textbf{#1}}}			%Bold blue text
+\definecolor{DarkRed}{RGB}{192,0,0}
+%\newcommand{\tcr}{\textcolor{DarkRed}}	%dark red colour
+\newcommand{\tbr}[1]{\textcolor{DarkRed}{\textbf{#1}}}			%Bold red text
+%\newcommand{\tcb}{\textcolor{black}}	%black colour
+\definecolor{NonCogGrey}{RGB}{100,100,100}
+\newcommand{\tcg}[1]{\textcolor{NonCogGrey}{#1}}		%Grey for non-cognate words
+\newcommand{\cg}[1]{\hspace{0.37mm}\textcolor{NonCogGrey}{#1}}
+
+\newcommand{\it}{\textit}	%italics
+\newcommand{\tsc}{\textsc}	%small caps
+\newcommand{\tbf}{\textbf}	%boldface
+\newcommand{\und}{\underline} %underline
+\newcommand{\nrm}{\textnormal} %normal text
+
+\newcommand{\sub}{\textsubscript}				%subscript
+\newcommand{\su}{\textsuperscript}			%superscript
+\newcommand{\sf}[1]{\textsf{\textcolor{black}{#1}}}							%sans serif
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Tables %% Tables %% Tables %% Tables %% Tables %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\mc}{\multicolumn}									%multicolumn
+\newcommand{\cwh}{\cellcolor{white}}						%white cellcolor
+\newcommand{\cgr}{\cellcolor{gray!19}}					%grey cellcolor
+\newcommand{\cdr}{\cellcolor{gray!24}}					%darker grey cellcolor
+\newcommand{\cbl}{\cellcolor{blue!14}}					%blue cellcolor
+\newcommand{\cye}{\cellcolor{yellow!34}}				%yellow cellcolor
+\newcommand{\cor}{\cellcolor{orange!34}}				%orange cellcolor
+\newcommand{\crd}{\cellcolor{red!34}}						%red cellcolor
+\newcommand{\clc}{\cellcolor}										%cellcolor
+\newcommand{\wg}{\rowcolors{1}{white}{gray!14}} %white/grey/white alternating rowcolors
+\newcommand{\gw}{\rowcolors{1}{gray!14}{white}} %grey/white/grey alternating rowcolors
+\newcommand{\rcl}{\rowcolor{gray!14}}						%single grey row
+%\newcolumntype{g}{>{\columncolor{gray!14}}l}		%grey column
+\definecolor{SoftGreen}{RGB}{198,239,206}
+\definecolor{SoftYellow}{RGB}{255,235,156}
+\newcommand{\st}[1]{\setlength{\tabcolsep}{#1}}	%reduce column width in tables
+\newcommand{\tblr}{\mbox{}\\\noindent\begin{tabular}} %first line of numbered tables
+\newcommand{\dbr}{ǁ}
+\newcommand{\SY}{\cellcolor{SoftYellow}}
+\newcommand{\SR}{\cellcolor{SoftGreen}}
+\newcommand{\tnsize}{\footnotesize\vspace{-3pt}} %change size of font in tables notes and redcue space between notes and table
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%    Cross   References and captions     %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\qf}[1]{(\ref{ex:#1})}						%cross reference bracketed examples
+\newcommand{\trf}[1]{Table \ref{tab:#1}}	%cross reference Table
+%\newcommand{\mrf}[1]{Map \ref{#1}}				%cross reference Map
+\newcommand{\frf}[1]{Figure \ref{fig:#1}}	%cross reference Figure
+\newcommand{\Crf}[1]{Chapter \ref{#1}} 		%cross reference Chapter (initial capital)
+\newcommand{\crf}[1]{chapter \ref{#1}} 		%cross reference chapter (initial lowercase)
+\newcommand{\srf}[1]{\S\ref{sec:#1}} 			%cross reference section
+\newcommand{\sqf}[1]{(\S\ref{sec:#1})} 		%cross reference section with brackets
+\newcommand{\prf}[1]{p. \pageref{#1}} 		%cross reference page number
+%%>{\raggedright\arraybackslash}						%command BEFORE column to make it ragged right
+
+\newcounter{tableex}										%counter for numbered tables
+\newcommand{\tbx}[1]{\refstepcounter{tableex}(\thetableex)\label{ex:#1}} %print updated the counter for tableex in brackets () and add a label for it
+%\counterwithin{tableex}{chapter}
+\makeatletter
+\@addtoreset{tableex}{chapter}
+\makeatother
+
+\newcommand{\tcp}[2]{\centering\caption{#1}{\label{tab:#2}}}	%caption for table with label
+\newcommand{\fcp}[2]{\caption{#1}{\label{fig:#2}}}	%caption for figure with label
+\newcommand{\scp}[2]{\section{#1}{\label{sec:#2}}}	%name for section with label
+\newcommand{\sscp}[2]{\subsection{#1}{\label{sec:#2}}}			%name for subsection with label
+\newcommand{\ssscp}[2]{\subsubsection{#1}{\label{sec:#2}}}	%name for subsubsection with label
+
+\newcounter{envfootnote}
+\newcommand\envfootnotemark{\footnotemark\addtocounter{envfootnote}{1}} %
+\newenvironment{envfn}%
+{\edef\ntnotes{\theenvfootnote}\setcounter{footnote}%
+{\value{footnote}-\value{envfootnote}}}%
+{\edef\ntnotes{\thefootnote}\setcounter{envfootnote}{0}}
+\newcommand\envfootnotetext[1]{\addtocounter{footnote}{1}   \footnotetext{#1}}
+
+\newcommand{\sqciteyear}[1]{[\citeyear{#1}]}
+\newcommand{\sqcitep}[1]{[\citealp{#1}]}
+\newcommand{\sqcitet}[2]{\citeauthor{#1} [\citeyear{#2}]}
+
+\newcommand{\missingcaption}{{\color{red} Please provide a caption}}

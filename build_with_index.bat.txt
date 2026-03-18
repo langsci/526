@@ -1,0 +1,10 @@
+@echo off
+
+xelatex "%1"
+
+"C:\Program Files\Git\usr\bin\sed.exe" -i "s/.*\\emph.*//" "%~n1.adx"
+
+makeindex -o "%~n1.and" "%~n1.adx"
+
+xelatex "%1"
+xelatex "%1"
